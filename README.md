@@ -3,7 +3,7 @@
 ## Specification
 
 1. Laboratory works are written in assembler win32.
-2. The masm32 libraries were used, as well as the Irvin library. 
+2. The masm32, Irvin library were used. 
 3. The reports analyze the speed of second work in the language of the assembler and C++
 
 ## Navigation
